@@ -20,6 +20,8 @@ This project presents a selection of PlayStation games through a menu-based inte
 - UI screen navigation
 
 ## Live Demo
+## Live Demo
+You can interact with the application here:
 [View the project on Code.org](https://studio.code.org/projects/applab/drZwsVhSjHJaXKKDFtwGpv3Yrssb8R5IGKb6p_QBxSc?qr=true)
 
 ## Notes
