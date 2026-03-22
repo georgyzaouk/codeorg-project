@@ -1,15 +1,17 @@
 # PlayStation Games Showcase
 
-An interactive Code.org App Lab project developed during high school.
+An interactive application developed using Code.org App Lab during my high school years.
 
-This application presents a selection of PlayStation games through a menu-based interface. Users can navigate between different screens, view game descriptions, browse in-game images, and access related videos.
+This project presents a selection of PlayStation games through a menu-based interface. Users can browse different titles, view descriptions, explore in-game pictures, and access related videos.
 
 ## Features
 - Start screen and main menu navigation
 - Selection of multiple PlayStation games
 - Dedicated screens for each game
-- Description, images, and video sections
-- Sound effects and background music controls
+- Game description section
+- In-game pictures section
+- Videos section with clickable thumbnails redirecting to YouTube
+- Background music and sound controls
 
 ## Technologies
 - JavaScript
@@ -17,11 +19,8 @@ This application presents a selection of PlayStation games through a menu-based 
 - Event-driven programming
 - UI screen navigation
 
-## Project Preview
-Screenshots of the application are available in the `images/` folder.
+## Live Demo
+[View the project on Code.org](https://studio.code.org/projects/applab/drZwsVhSjHJaXKKDFtwGpv3Yrssb8R5IGKb6p_QBxSc?qr=true)
 
 ## Notes
-This project reflects an early exploration of interactive application design, screen management, and user-driven navigation.
-
-## Original Platform
-Built using Code.org App Lab.
+This project reflects an early exploration of interactive application design, user navigation, and event-driven programming.
